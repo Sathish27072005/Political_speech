@@ -24,16 +24,13 @@ Edit
 git clone https://github.com/Sathish27072005/Political_speech
 Install dependencies:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
+
 Run the notebook:
 
-bash
-Copy
-Edit
-jupyter notebook main.ipynb
+google colab : main.ipynb
+
 📊 Methodology
 Text Preprocessing: Lowercasing, tokenization, and optional stopword removal.
 
@@ -69,6 +66,3 @@ vaderSentiment
 
 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for suggestions and improvements.
-
-📄 License
-This project is licensed under the MIT License.
