@@ -21,8 +21,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/presidential-speech-sentiment.git
-cd presidential-speech-sentiment
+git clone https://github.com/Sathish27072005/Political_speech
 Install dependencies:
 
 bash
