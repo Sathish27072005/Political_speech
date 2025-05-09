@@ -11,7 +11,7 @@ Data: A dataset of presidential speeches over several decades.
 Output: Visualization and analysis of sentiment polarity over time and across presidents.
 
 🧪 Contents
-main.ipynb: The core Jupyter Notebook containing all data preprocessing, sentiment scoring, and visualization logic.
+main.ipynb: The core google colab containing all data preprocessing, sentiment scoring, and visualization logic.
 
 data/: (Not included here) Directory expected to contain the presidential speech dataset.
 
